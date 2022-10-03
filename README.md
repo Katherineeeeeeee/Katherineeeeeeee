@@ -1,8 +1,10 @@
-<h1>It's just beginning... 🪄</h1>
+<!-- <h1>It's just beginning... 🪄</h1> -->
 
 ### Hi there, I'm Katherine 👋
 
-- 🔭 I’m **junior front-end developer**
+- 🔭 I’m **junior front-end developer** from UA
+- 💡 I’m currently learning Node.js
+- 🫶 I want to work with companies as a frontend or fullstack developer
 - 📫 How to reach me: **katherine.dudar.7@gmail.com**
 
 ### My stack and tools
