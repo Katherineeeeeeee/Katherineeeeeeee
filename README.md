@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Katherine 👋
 
-- 🔭 I’m **junior front-end developerf**
-- 📫 How to reach me: **katherine.dudar.7@gmail.com**
+🔭 I’m **junior front-end developer** 📫 How to reach me:
+**katherine.dudar.7@gmail.com**
 
 ### My stack and tools
 
