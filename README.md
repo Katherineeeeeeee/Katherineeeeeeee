@@ -4,7 +4,7 @@
 
 - 🔭 I’m **junior frontend developer** from UA
 - 💡 I’m currently learning Node.js
-- 🫶 I want to work with companies as a **frontend** or **fullstack** developer
+- 🫶 **Frontend** developer
 - 📫 How to reach me: **katherine.dudar.7@gmail.com**
 
 ### My stack and tools
