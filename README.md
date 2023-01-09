@@ -5,6 +5,7 @@
 - 🔭 I’m **frontend developer** from UA
 - 💡 I’m currently learning Node.js
 - 📫 How to reach me: **katherine.dudar.7@gmail.com**
+- 📲 How to contact me in Telegram: **@kate_dudar**
 
 ### My stack and tools
 
