@@ -3,7 +3,7 @@
 ### Hi there, I'm Katherine 👋
 
 - 🔭 I’m **frontend developer** from UA
-- 💡 I’m currently learning Node.js
+- 💡 I’m currently learning React Native
 - 📫 How to reach me: **katherine.dudar.7@gmail.com**
 - 📲 How to contact me in Telegram: **@kate_dudar**
 
