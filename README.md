@@ -1,6 +1,6 @@
 <!-- <h1>It's just beginning... 🪄</h1> -->
 
-### Hi there, I'm Katherine 👋
+### Hi there, I'm Kate 👋
 
 - 🔭 I’m **frontend developer** from UA
 - 📫 How to reach me: **katherine.dudar.7@gmail.com**
